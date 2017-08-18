@@ -1,0 +1,15 @@
+* NO PLATE DECTECTION THROUGH IMAGE PROCESSING .
+1. OPEN IR_CODE USUING ARDUINO IDE ..... ARDUINO DETECT OBSTACLE
+2. PROCESSING THE CODE THROUGH PROCESSING.zip
+3. MAKING txt file .
+4. Put 0 in it.. then save it.
+5. Run the processing .... 0 of txt file will be changed to 1 when arduino detects the obstacle .
+4. open imagerev.py through python....it will be capturing image through opencv and output will be generated .
+5.  open the matlab code.... run it by loading sample images or screenshot of captured images .
+6. Next procedure involves email the culprit vehicle through python .
+7 .Open th python-email-sending2.py and run it in python .
+8. Email will be sent.... and information will be sent in form of database to RTO office for further action.
+
+THANK YOU !
+
+CONTACT FOR ANY DOUBTS>>>> 
